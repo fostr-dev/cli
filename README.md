@@ -1,4 +1,4 @@
-# fostr CLI
+# fostr CLI 🐙
 ### A CLI client for interacting with fostr on nostr.
 
 ## Usage
