@@ -1,0 +1,12 @@
+{
+  "name": "fostr-cli",
+  "dependencies": {
+    "ipfs-http-client": "^56.0.3",
+    "modernlog": "^1.1.0",
+    "nostr-tools": "^1.7.4",
+    "websocket-polyfill": "^0.0.3"
+  },
+  "bin": {
+    "fostr": "index.js"
+  }
+}
